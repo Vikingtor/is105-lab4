@@ -1,0 +1,1 @@
+Tester lang tekst for å se om det er noen forskjell i systemkall

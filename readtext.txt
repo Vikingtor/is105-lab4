@@ -1,0 +1,1 @@
+Tester lang tekst for å se om det blir noe forskjell på systemkallene når jeg kjører en strace

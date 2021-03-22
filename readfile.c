@@ -9,8 +9,8 @@ int main()// Main class of type int
 	// Char stores characters and letters,
         // we allocate 300 bytes.
 	char *buf = (char *) calloc(300, sizeof(char));
-	// Opens foo.txt and stores it's content in parameter fd
-	fd = open("foo.txt", O_RDONLY);
+	// Opens readtext.txt and stores it's content in parameter fd
+	fd = open("readtext.txt", O_RDONLY);
 	// If content of fd is less then 0 (there is no content)
 	if (fd < 0)
 	{
